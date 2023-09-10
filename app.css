@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+#warna {
+  width: 300px;
+  height: 40px;
+  border-radius: 40px;
+  border-style: none;
+  background-color: aquamarine;
+}
+.basing {
+  background-color: #f39f5a;
+}
