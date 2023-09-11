@@ -11,3 +11,21 @@ body {
 .basing {
   background-color: #f39f5a;
 }
+.kotak {
+  width: 25px;
+  height: 25px;
+  margin: 10px auto;
+}
+.merah {
+  background-color: red;
+}
+.hijau {
+  background-color: green;
+}
+.biru {
+  background-color: blue;
+}
+html,
+body {
+  height: 100%;
+}
